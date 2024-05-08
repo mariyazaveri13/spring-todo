@@ -10,5 +10,6 @@
 
 	<div>Welcome ${ name }</div>
 
+	<div><a href="listtodos">Manage</a> your todos</div>
 </body>
 </html>
